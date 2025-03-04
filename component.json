@@ -1,0 +1,74 @@
+{
+  "type": "component",
+  "name": "comp1",
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "jgOgCf"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "Breadcrumbs",
+      "nodeName": "bln-breadcrumbs",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "_A05Rr"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
