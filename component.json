@@ -1,0 +1,121 @@
+{
+  "type": "component",
+  "name": "comp1",
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "styles": [
+        {
+          "property": "--bln-badge-text-color",
+          "value": "#c41c1c",
+          "enabled": true
+        },
+        {
+          "property": "--bln-badge-default-color",
+          "value": "#891f6d",
+          "enabled": true
+        }
+      ],
+      "children": [],
+      "type": "core-component",
+      "expressions": [
+        {
+          "expression": "\"outline\"",
+          "to": "type"
+        }
+      ]
+    },
+    {
+      "name": "Breadcrumbs",
+      "nodeName": "bln-breadcrumbs",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "styles": [
+        {
+          "property": "--bln-breadcrumbs-bg-color",
+          "value": "#e59e9e",
+          "enabled": true
+        }
+      ],
+      "children": [],
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "Button",
+      "nodeName": "bln-button",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "styles": [
+        {
+          "property": "--bln-button-default-bg-color",
+          "value": "#eeaaaa",
+          "enabled": true
+        }
+      ],
+      "children": [],
+      "type": "core-component",
+      "expressions": [
+        {
+          "expression": "({\n  \"type\": \"font-icon\",\n  \"position\": \"left\",\n  \"name\": \"acquisitions-incorporated\",\n  \"style\": \"brands\"\n})",
+          "to": "icon"
+        }
+      ]
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "p7ertj5X64g_n_Q8Y4q2Q",
+        "name": "a"
+      }
+    ],
+    "scripts": [
+      {
+        "id": "Fc_1R1acjhSUm6P0YuAHd",
+        "name": "gg"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "_o3hQJjCvkSBNOafnhiJO",
+        "name": "aa"
+      }
+    ]
+  },
+  "localStylesheets": [
+    {
+      "path": "aa/ff.css",
+      "parentDirectoryId": "_o3hQJjCvkSBNOafnhiJO"
+    }
+  ],
+  "localScripts": [
+    {
+      "path": "gg/h.js",
+      "parentDirectoryId": "Fc_1R1acjhSUm6P0YuAHd"
+    }
+  ]
+}
